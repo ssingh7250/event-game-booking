@@ -1,0 +1,64 @@
+.main{
+
+    position:fixed;
+    top:10%;
+    left:75%;
+    transform: 'translate(-50%,-50%)';
+    background-color: bisque;
+    z-index: 1000;
+    width: 400px;
+    height: 95%;
+    border: 2px solid red;
+
+}
+.btn_close
+{
+    padding: 10px 10px;
+    border: 2px solid black;
+    border-radius: 10px;
+    margin-left: 80%;
+    margin-top: 20px;
+}
+.title
+{
+    margin: 0% 30%;
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.list
+{
+    display: flex;
+    text-decoration: underline;
+    
+}
+.list h2{
+    margin-left: 20px;
+}
+.total
+{
+    margin-left: 60%;
+    font-size: 20px;
+    margin-top: 20px;
+}
+.btn_buy
+{
+    padding: 10px 10px;
+    margin-left: 30%;
+    border-radius: 10px;
+    background-color: aquamarine;
+}
+.remove{
+    background-color: red;
+    padding:0px 10px;
+    margin-left: 30px;
+    height: 20px;
+    font-size: 10px;
+}
+.list2
+{
+    display: flex;
+   
+}
+.list2 h2{
+    margin-left: 50px;
+}

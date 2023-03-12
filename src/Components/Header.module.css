@@ -1,0 +1,58 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.main
+{
+   background-color: black;
+   height: 50px;
+    color: white;
+    text-align: center;
+    display: flex;
+    position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 0;
+    
+
+
+}
+.button
+{
+    padding: 10px 20px;
+    margin-left: 350px;
+    font-weight: bold;
+    border-radius: 10px;
+    margin-top: 5px;
+}
+.main span{
+
+  
+    margin-top: 25px;
+    font-weight: bold;
+    font-size: 20px;
+    margin-left: 50px;
+
+   
+}
+
+.title{
+
+        height: 200px;
+        background-color: gray;
+        font-size: 100px;
+        text-align: center;
+        font-weight: bold;
+        color: white;
+}
+.para{
+   padding-top: 50px;
+}
+.p{
+    font-size: 100px;
+    text-align: center;
+    margin: 20px 20px;
+   
+    
+}

@@ -1,0 +1,49 @@
+
+.main{
+    display: flex;
+    flex-flow: row wrap;
+    
+    overflow: hidden;
+    width: 100%;
+    margin: 50px;
+
+    
+    
+  
+
+
+}
+.cart{
+
+    width: 300px;
+    height: 450px;
+    background-color: aquamarine;
+    border-radius: 20px;
+    border: 2px solid #fa8072;
+    margin-left: 100px;
+    margin-top: 20px;
+
+}
+.btn{
+    float: right;
+    margin-bottom: 10px;
+    padding:10px 10px;
+    border-radius: 10px;
+    
+}
+.cart h3{
+    font-size: 20px;
+        
+}
+.cartbtn
+{
+    padding: 10px 10px;
+    text-align: center;
+    margin-left:50%;
+    background-color: aqua;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.image{
+    cursor: pointer;
+}
